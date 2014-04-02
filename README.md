@@ -11,9 +11,6 @@ of dramatic embellishments.
 
 
 Runs in Python 2.7
-
 Originally by redlandcannibal
-
 Last updated: 2014 April 2
-
 http://maestoso.org

@@ -1,11 +1,11 @@
 ===============================================================================
 Morning Cats
-redlandcannibal (heroism@maestoso.org)
+redlandcannibal
 http://maestoso.org
 ===============================================================================
 
 A text-adventure game in Python
-http://maestoso.org/2014/04/morning-cats-a-text-adventure-game-in-python/
+https://github.com/redlandcannibal/morning-cats
 
 Runs in Python 2.7
 
